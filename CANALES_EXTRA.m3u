@@ -9,3 +9,6 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="MEXICO", TVMAS (Veracruz)
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="MEXICO", TVMAS (Veracruz)
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
