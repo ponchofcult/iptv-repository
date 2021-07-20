@@ -6,3 +6,6 @@ https://
 
 #EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2021/06/Canal26.jpg" group-title="MEXICO", Canal 26 (Aguascalientes TV)
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="MEXICO", TVMÁS (Veracruz)
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
