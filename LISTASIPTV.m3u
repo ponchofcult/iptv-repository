@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,--- LISTA GRATIS PONCHOFCULT
+https://
+#EXTINF:-1,--- Visita www.com ---
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51jS0S%2BaLkL.png" TVJAPAN
+https://raw.githubusercontent.com/ponchofcult/iptv-repository/main/TVJAPAN.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", TV
+http://srregio.club/j21/tv.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", MX
+http://srregio.club/j21/mx.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", Android
+http://srregio.club/j21/android.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", Regioflix
+http://srregio.club/j21/regioflix.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", SSIPTV
+http://srregio.club/j21/ssiptv.m3u
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s72291_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 1
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119143_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119144_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 3
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s72291_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 1
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119143_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119144_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 3
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s72291_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 1
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119143_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119144_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 3
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s72291_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 1
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119143_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119144_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 3
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s72291_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 1
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119143_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s119144_h3_ba.png" group-title="CLARO SPORTS", CLARO SPORTS 3
