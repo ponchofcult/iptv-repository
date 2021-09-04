@@ -10,8 +10,5 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="VERACRUZ", TVMAS (Veracruz)
 https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="Queretaro", Canal 10
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="QUERETARO", Canal 10
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNO TV", LATINOS
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/latinos.m3u
