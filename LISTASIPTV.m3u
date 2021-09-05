@@ -4,7 +4,7 @@ https://
 #EXTINF:-1,--- Visita www.com ---
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51jS0S%2BaLkL.png" TVJAPAN
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51jS0S%2BaLkL.png" group-title="TVJAPANMX" TVJAPAN
 https://raw.githubusercontent.com/ponchofcult/iptv-repository/main/TVJAPAN.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", TV
