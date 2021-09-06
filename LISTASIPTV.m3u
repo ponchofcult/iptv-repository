@@ -4,70 +4,78 @@ https://
 #EXTINF:-1,--- Visita www.com ---
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41baFD5lD2L.png" group-title="TVJAPAN", TVJAPAN
-https://raw.githubusercontent.com/ponchofcult/iptv-repository/main/TVJAPAN.m3u
+#EXTINF:-1, TVJAPAN
 
-#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", TV
-http://srregio.club/j21/tv.m3u
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2021/06/Canal26.jpg" group-title="AGUASCALIENTES", Canal 26 (Aguascalientes TV)
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", MX
-http://srregio.club/j21/mx.m3u
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="VERACRUZ", TVMAS (Veracruz)
+https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", Android
-http://srregio.club/j21/android.m3u
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="QUERETARO", Canal 10
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", Regioflix
-http://srregio.club/j21/regioflix.m3u
-
-#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/02/pantalla-inicio.jpg" group-title="SR REGIO", SSIPTV
-http://srregio.club/j21/ssiptv.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", ANDROID
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/android.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", ANDROID 2
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/android2.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", ANDROID 3
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/android3.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", FTA 1
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/fta.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", FTA 2
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/fta2.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", GEOMEX
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/geomex.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", LATINOS
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/latinos.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", PELICULAS
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/peliculas.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", SMART TV 1
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/smartv.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", SMART TV 2
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/smartv2.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", SMART TV 3
-https://github.com/ponchofcult/tecnotv-repository/blob/main/smartv3.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", SSIPTV 1
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/ssiptv.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", SSIPTV 2
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/ssiptv2.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TviWIyE.png" group-title="TECNOTV", SSIPTV 3
-https://raw.githubusercontent.com/ponchofcult/tecnotv-repository/main/ssiptv3.m3u
+#EXTINF:-1, SRREGIO TV
 
 
-#EXTINF:-1 tvg-logo="https://www.tdtchannels.com/logo_200.png" group-title="TDTChannels", TDT CHANNELS 1
-https://www.tdtchannels.com/lists/tv.m3u8
+#EXTINF:-1, SRREGIO MX
 
 
-#EXTINF:-1 tvg-logo="https://www.tdtchannels.com/logo_200.png" group-title="TDTChannels", TDT CHANNELS MPD
-https://www.tdtchannels.com/lists/tv_mpd.m3u8
+#EXTINF:-1, SRREGIO ANDROID
+
+
+#EXTINF:-1, SRREGIO REGIOFLIX
+
+
+#EXTINF:-1, SRREGIO SSIPTV
+
+
+#EXTINF:-1, TECNOTV ANDROID
+
+
+#EXTINF:-1, TECNOTV ANDROID 2
+
+
+#EXTINF:-1, TECNOTV ANDROID 3
+
+
+#EXTINF:-1, TECNOTV FTA 1
+
+
+#EXTINF:-1, TECNOTV FTA 2
+
+
+#EXTINF:-1, TECNOTV GEOMEX
+
+
+#EXTINF:-1, TECNOTV LATINOS
+
+
+#EXTINF:-1, TECNOTV PELICULAS
+
+
+#EXTINF:-1, TECNOTV SMART TV 1
+
+
+#EXTINF:-1, TECNOTV SMART TV 2
+
+
+#EXTINF:-1, TECNOTV SMART TV 3
+
+
+#EXTINF:-1, TECNOTV SSIPTV 1
+
+
+#EXTINF:-1, TECNOTV SSIPTV 2
+
+
+#EXTINF:-1, TECNOTV SSIPTV 3
+
+
+
+#EXTINF:-1, TECNOTV TDT CHANNELS 1
+
+
+
+#EXTINF:-1, TECNOTV TDT CHANNELS MPD
+
