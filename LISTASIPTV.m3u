@@ -15,6 +15,9 @@ https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/676_RTQ_Queretaro.png" group-title="QUERETARO", Canal 10
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/badcbac92feeef97e90bdb9b68877967.png" group-title="MEXICO", Azteca 7
+http://51.222.43.170:36995/live/ultr@prem21/XqeaDgqDaA/61.ts
+
 #EXTINF:-1, SRREGIO TV
 
 
